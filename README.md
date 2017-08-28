@@ -1,7 +1,7 @@
 Chatbot Nasıl Yapılır? Adım adım Chatbot…
 Selamlar. Bugün Microsoft Bot Framework ile chatbotun nasıl yapıldığını, nasıl çalıştığını bir demo yaparak öğreneceğiz.
 Chatbotumuzu dev.botframework.com sitesine giderek oluşturmamız gerekiyor. Siteye mailimiz ile giriş yaptıktan sonra hemen ana ekranda karşımıza çıkan “Create a bot or skill” i tıklayarak yeni botumuzu oluşturuyoruz. “Create Bot” ve “Register” dedikten sonra bot bilgilerimizi girmemiz gerekiyor.
-https://cdn-images-1.medium.com/max/1200/1*_jdX2gD2YTAXC_lg5eC2Tw.png
+
 
 Display name: Botunuzun adı. Daha sonradan değiştirilebilir.
 Bot handle: Botunuzun Url’de görünen adıdır. Bu kısım önemli botunuzun türkçe karekter kullanmamaya özen gösterin. Daha sonradan değiştirilemiyor.
